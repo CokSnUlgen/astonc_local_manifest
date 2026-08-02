@@ -16,7 +16,7 @@ Download the manifest:
 
 ```bash
 curl -o .repo/local_manifests/astonc.xml \
-https://raw.githubusercontent.com/<username>/<repo>/main/astonc.xml
+https://raw.githubusercontent.com/CokSnUlgen/astonc_local_manifest/main/astonc.xml
 ```
 
 Then sync:
